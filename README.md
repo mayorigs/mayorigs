@@ -11,4 +11,3 @@ mayorigs/mayorigs is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGiFoukUZ8HhlZL1erZOlrUZwUS/qPESIP48coYYj48E mayolab@pitt.edu
